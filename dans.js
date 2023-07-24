@@ -94,12 +94,10 @@ const {
     zippyshare,
     chord
 } = require('@bochilteam/scraper')
-const ttdlee = require("tiktok-video-downloader");
 const hx = require('hxz-api');
 const xa = require('xfarr-api');
 const instagramGetUrl = require("instagram-url-direct")
 //const y2 = require("y2mate-api");
-const ttdl = require("tiktok-video-downloader");
 const { google } = require('googleapis');
 const readline = require('readline');
 let BodyForm = require('form-data')
