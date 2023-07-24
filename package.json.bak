@@ -72,6 +72,7 @@
     "request": "^2.88.2",
     "scrape-primbon": "^1.1.0",
     "selfietoanime": "^1.0.0",
+    "tiktok-video-downloader": "^1.0.3",
     "util": "^0.12.4",
     "videolinkapi": "^1.0.0",
     "xfarr-api": "^2.0.0",
